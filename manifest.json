@@ -1,6 +1,6 @@
 {
-  "name": "OneSignal Example",
-  "short_name": "OneSignalExample",
+  "name": "cmmarsh1.github.io",
+  "short_name": "cmmarsh1.github.io",
   "start_url": "/",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
